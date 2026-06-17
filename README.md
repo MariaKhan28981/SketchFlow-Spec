@@ -1,16 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# SketchFlow Spec — Real Time Architecture Parsing Assistant
 
-<div align="center">
-<img width="1000" alt="SketchFlow AI" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+SketchFlow Spec is a developer-focused web app that analyzes system diagrams, whiteboard sketches, and flowcharts to produce structured architecture, security findings, specification markdown, and next-step recommendations. It includes a React + Vite frontend and an Express TypeScript backend that integrates with the Gemini Vision API (when configured).
 
-# SketchFlow AI — Architectural Sketch Analyzer
+**Live demo link:** https://sketchflow-ai-570104455079.asia-southeast1.run.app
 
-SketchFlow AI is a developer-focused web app that analyzes system diagrams, whiteboard sketches, and flowcharts to produce structured architecture, security findings, specification markdown, and next-step recommendations. It includes a React + Vite frontend and an Express TypeScript backend that integrates with the Gemini Vision API (when configured).
-
-**Live demo link:** https://ai.studio/apps/4ca2c16b-1640-4ee4-a04d-36d783219d55
 
 **Built with:** Node.js, TypeScript, Express, Vite, React, Tailwind-compatible tooling, and Google Gemini GenAI integration.
 
