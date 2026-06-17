@@ -1,0 +1,72 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+server.js
+dist/server.cjs
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Environment files (exclude all, but keep example files)
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite / cache
+.vite/
+node_modules/.vite/
+.cache/
+.parcel-cache/
+
+# Bundlers / tools
+.esbuild/
+
+# Coverage
+coverage/
+
+# ESLint cache
+.eslintcache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# JetBrains
+*.iml
+
+# Temporary / local files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache
+.npm/
+
+# Archives
+*.tgz
+*.zip
+*.tar.gz
+
+# Ignore local structure output (optional)
+# structure.txt
+

@@ -1,0 +1,6 @@
+{
+  "name": "SketchFlow AI",
+  "description": "A real-time multimodal diagram interpreter that converts uploaded hand-drawn architecture sketches, whiteboard designs, and flowcharts into comprehensive engineering documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
